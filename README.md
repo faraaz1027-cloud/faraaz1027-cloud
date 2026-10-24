@@ -17,7 +17,7 @@ I work on full-stack web applications and practical machine-learning projects. M
 | Project | Focus | Code |
 |---|---|---|
 | **PLAN-Z** *(team project)* | MERN event management, ticketing, multi-role dashboards | [Repository](https://github.com/faraaz1027-cloud/PLAN-Z) |
-| **Hotel Booking Cancellation Prediction** | Leakage-aware evaluation of hotel-booking data; reported ROC-AUC 0.88 | [Repository](https://github.com/faraaz1027-cloud/cse437-hotel-cancellation-15) |
+| **Hotel Booking Cancellation Prediction** *(team project)* | Leakage-aware validation of hotel-booking data; ROC-AUC 0.876 | [Code](https://github.com/faraaz1027-cloud/cse437-hotel-cancellation-15) · [Live demo](https://cse437-hotel-cancellation-15-tbps3rptce7gx2xnyemwqt.streamlit.app/) |
 | **Bangla Speech Emotion Recognition** *(team project)* | Acoustic features, clustering, supervised ML experiments | [Repository](https://github.com/faraaz1027-cloud/Speech-Emotion-Recognition) |
 
 ### 🔬 Current research
@@ -29,4 +29,4 @@ Investigating detection of axe, chainsaw, handsaw, and wood-chopping sounds amid
 
 [LinkedIn](https://www.linkedin.com/in/faraaz-jamil-chowdhury-3049371a0) · [Email](mailto:faraaz1027@gmail.com)
 
-*PLAN-Z and Speech Emotion Recognition are collaborative works. Their READMEs credit the original team repositories; these portfolio copies do not imply sole authorship.*
+*PLAN-Z, Hotel Booking Cancellation Prediction and Speech Emotion Recognition are collaborative works. The linked project READMEs credit contributors and document individual roles; these portfolio repositories do not imply sole authorship.*
