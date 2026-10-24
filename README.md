@@ -18,7 +18,7 @@ I work on full-stack web applications and practical machine-learning projects. M
 |---|---|---|
 | **PLAN-Z** *(team project)* | MERN event management, ticketing, multi-role dashboards | [Code](https://github.com/faraaz1027-cloud/PLAN-Z) · [Live demo](https://planz-portfolio-web.onrender.com/) |
 | **Hotel Booking Cancellation Prediction** *(team project)* | Leakage-aware validation of hotel-booking data; ROC-AUC 0.876 | [Code](https://github.com/faraaz1027-cloud/cse437-hotel-cancellation-15) · [Live demo](https://cse437-hotel-cancellation-15-tbps3rptce7gx2xnyemwqt.streamlit.app/) |
-| **Bangla Speech Emotion Recognition** *(team project)* | Acoustic features, clustering, supervised ML experiments | [Repository](https://github.com/faraaz1027-cloud/Speech-Emotion-Recognition) |
+| **Bangla Speech Emotion Recognition** *(team project)* | Bangla speech ML coursework; interactive MFCC and acoustic-feature explorer (not live emotion prediction) | [Code](https://github.com/faraaz1027-cloud/Speech-Emotion-Recognition) · [Live demo](https://speech-emotion-recognition-fkappby7ugbjxfb9tcqvbyn.streamlit.app/) |
 
 ### 🔬 Current research
 
